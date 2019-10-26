@@ -1,7 +1,6 @@
 #********************************************************
-# CIS245 Week 8 Assignment 8.1
+# Week 8 Assignment
 # Banking Application 
-# Robin Mason    October 20, 2019
 # *******************************************************
 class BankAccount:
     def __init__(self, accountNumber, balance):
